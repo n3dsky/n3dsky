@@ -53,7 +53,7 @@
 ## 📫 Контакты
 
 - **Email:** [твой-email@gmail.com](mailto:n3dsky@mail.ru)  
-- **Telegram:** [@твой_ник](https://t.me/n3dsky)  
+- **Telegram:** [@n3dsky](https://t.me/n3dsky)  
 
 ---
 
