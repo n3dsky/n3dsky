@@ -52,7 +52,7 @@
 
 ## 📫 Контакты
 
-- **Email:** [твой-email@gmail.com](mailto:n3dsky@mail.ru)  
+- **Email:** [n3dsky@mail.com](mailto:n3dsky@mail.ru)  
 - **Telegram:** [@n3dsky](https://t.me/n3dsky)  
 
 ---
